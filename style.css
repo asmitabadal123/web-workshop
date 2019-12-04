@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Internal CSS </title>
+<style>
+#main {
+text-align:center;
+}
+WDW {
+color:yellow;
+font-size:50px;
+font-weight:bold;
+}
+.workshop{
+font -style:bold;
+font-size:20px;
+}
+</style>
+</head>
+<body>
+<div id="main">
+<div class="WDW">web Designing
+workshop</div>
+<div class="workshop">
+This is a workshop on web designing.
+</div>
+</div>
+</body>
+</html>
